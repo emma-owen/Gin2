@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gin2"
+	"d3-router/gin2"
 	"net/http"
 )
 
